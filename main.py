@@ -53,5 +53,3 @@ print(format_dict(cook_book))
 list_shop = get_shop_list_by_dishes(['Запеченный картофель', 'Омлет'], 2)
 print(format_dict_v2(list_shop))
 
-list_shop2 = get_shop_list_by_dishes(['Запеченный картофель', 'Запеченный картофель2', 'Омлет', 'Фахитос'], 7)
-print(format_dict_v2(list_shop2))
